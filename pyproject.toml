@@ -1,0 +1,7 @@
+[project]
+name = 'multimodal-eval-core'
+version = '0.1.0'
+description = 'Framework for evaluating multimodal AI models'
+requires-python = '>=3.8'
+dependencies = ['pydantic', 'evaluate', 'pillow']
+
