@@ -59,7 +59,7 @@ pip install -e .
 ### 2. Install model backends (⚠️ Required)
 
 MultimodalEvalCore will not work without at least one model installed.  
-See the full [Installation Models Guide](docs/installation_models.md), or use quick steps below:
+See the full [Model Installation Guide](docs/model_installation.md), or use quick steps below:
 
 - **LLaVA via Ollama**  
   ```bash
@@ -175,11 +175,11 @@ This allows benchmarking not only on provided **Labeled** and **Unlabeled** data
 
 - [Quickstart](docs/quickstart.md)  
 - [Usage Guide](docs/usage.md)  
-- [Running Guide](docs/running.md)  
+- [Model Installation](docs/model_installation.md)  
 - [Tasks Guide](docs/tasks.md)  
 - [Metrics Guide](docs/metrics.md)  
 - [Interpreting Results](docs/interpreting_results.md)  
-- [Installation Models](docs/installation_models.md)  
+- [Architecture](docs/architecture.md)  
 - [Tests Guide](docs/tests.md)  
 - [Troubleshooting](docs/troubleshooting.md)  
 - [Roadmap](docs/roadmap.md)  
