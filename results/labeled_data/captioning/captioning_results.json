@@ -1,0 +1,110 @@
+[
+  {
+    "id": "kitten_in_a_box.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/captioning/kitten_in_a_box.jpg",
+    "caption": "A small white kitten with bright eyes is sitting inside an open cardboard box, looking up curiously. The dark carpeted floor around the box contrasts with the kitten’s clean, light fur, making it the center of attention.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:18-07:00",
+    "cider": 0.15,
+    "clip_score": 0.5833,
+    "semantic_similarity": 0.5143,
+    "composite_score": 0.4405
+  },
+  {
+    "id": "man_with_laptop.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/captioning/man_with_laptop.jpg",
+    "caption": "A man wearing a loose red t-shirt is sitting indoors with a laptop on his lap, seen through a reflective glass window with tall city buildings in the background. His focused expression suggests he is working or browsing intently.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:18-07:00",
+    "cider": 0.15,
+    "clip_score": 0.5958,
+    "semantic_similarity": 0.4998,
+    "composite_score": 0.4364
+  },
+  {
+    "id": "meme.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/captioning/meme.jpg",
+    "caption": "A meme featuring the character Fry from Futurama shows him squinting suspiciously, with the caption: “Not sure if I am a photographer or just a guy with a camera.” The joke humorously highlights the difference between owning a camera and having real photography skills.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:18-07:00",
+    "cider": 0.15,
+    "clip_score": 0.5591,
+    "semantic_similarity": 0.5348,
+    "composite_score": 0.4447
+  },
+  {
+    "id": "mirror_selfie.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/captioning/mirror_selfie.jpg",
+    "caption": "A black-and-white photo shows a person taking a mirror selfie with a camera, sitting casually with one leg crossed. Their face is partly obscured by the camera, while messy hair and ripped jeans add a relaxed, artistic feel.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:18-07:00",
+    "cider": 0.15,
+    "clip_score": 0.578,
+    "semantic_similarity": 0.5124,
+    "composite_score": 0.4382
+  },
+  {
+    "id": "mountains_and_lake.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/captioning/mountains_and_lake.jpg",
+    "caption": " A mountain covered with patches of forest rises above a calm lake, with the peak lit by soft evening sunlight. The reflection of the slopes stretches across the rippling water.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:18-07:00",
+    "cider": 0.15,
+    "clip_score": 0.5698,
+    "semantic_similarity": 0.4918,
+    "composite_score": 0.4258
+  },
+  {
+    "id": "painting_in_museum.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/captioning/painting_in_museum.jpg",
+    "caption": "The famous painting Mona Lisa is displayed behind protective glass in a museum, with visitors capturing it on their phones from a distance. Its small size contrasts with the large display wall around it.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:18-07:00",
+    "cider": 0.15,
+    "clip_score": 0.574,
+    "semantic_similarity": 0.4736,
+    "composite_score": 0.4178
+  },
+  {
+    "id": "reflection_in_water.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/captioning/reflection_in_water.jpg",
+    "caption": "A cluster of tall pine trees is reflected in the still water of a lake, as golden sunlight filters through the morning mist. The warm light creates a serene and dreamy atmosphere.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:18-07:00",
+    "cider": 0.15,
+    "clip_score": 0.5819,
+    "semantic_similarity": 0.508,
+    "composite_score": 0.437
+  },
+  {
+    "id": "street_at_night.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/captioning/street_at_night.jpg",
+    "caption": "A dimly lit street at night is illuminated by street lamps and car headlights, with vehicles parked on both sides and power lines crisscrossing above. The bright glow of a car approaching adds contrast to the dark alley.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:18-07:00",
+    "cider": 0.2583,
+    "clip_score": 0.5847,
+    "semantic_similarity": 0.5214,
+    "composite_score": 0.4714
+  },
+  {
+    "id": "woman_on_bicycle.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/captioning/woman_on_bicycle.jpg",
+    "caption": "A woman wearing a green polka-dot jumpsuit, white sneakers, and a helmet is riding a bicycle with a wicker basket on the front along a city street. A white van and storefronts can be seen in the background.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:18-07:00",
+    "cider": 0.2523,
+    "clip_score": 0.5469,
+    "semantic_similarity": 0.5352,
+    "composite_score": 0.4674
+  }
+]

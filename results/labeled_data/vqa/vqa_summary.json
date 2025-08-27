@@ -1,0 +1,11 @@
+{
+  "task": "vqa",
+  "dataset_type": "labeled_data",
+  "model_name": "gpt-4o",
+  "run_timestamp": "2025-08-27T03:09:03-07:00",
+  "num_samples": 7,
+  "mean_clip_score": 0.5819,
+  "mean_semantic_similarity": 0.5142,
+  "mean_contextual_relevance": 0.5077,
+  "mean_composite_score": 0.5177
+}

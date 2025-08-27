@@ -1,0 +1,11 @@
+{
+  "task": "contextual_relevance",
+  "dataset_type": "labeled_data",
+  "model_name": "gpt-4o",
+  "run_timestamp": "2025-08-27T03:09:24-07:00",
+  "num_samples": 5,
+  "mean_clip_score": 0.5675,
+  "mean_semantic_similarity": 0.4621,
+  "mean_cider": 0.1989,
+  "mean_composite_score": 0.4253
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "guy_dancing.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/hallucination/guy_dancing.jpg",
+    "caption": "A young man stands near a metal fence, seemingly dancing and caught mid-air as if floating. He wears a black shirt with a colorful dragon print, light blue ripped jeans, and black sneakers or boots. His arms are spread out, balancing on his toes.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:48-07:00",
+    "hallucination_raw": 1.0,
+    "hallucination_score": 0.0,
+    "semantic_similarity": -0.0351,
+    "composite_score": 0.0189
+  },
+  {
+    "id": "guy_with_long_hair.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/hallucination/guy_with_long_hair.jpg",
+    "caption": "A young man with long, light brown hair is captured in profile against a dark background. He wears a beige knitted sweater and appears calm and introspective, looking downward with a peaceful expression. The lighting is soft, creating a warm, moody atmosphere.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:48-07:00",
+    "hallucination_raw": 1.0,
+    "hallucination_score": 0.0,
+    "semantic_similarity": -0.0884,
+    "composite_score": -0.013
+  },
+  {
+    "id": "room_with_a_lamp.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/hallucination/room_with_a_lamp.jpg",
+    "caption": "A warm yellow lamp glows on a small corner table, casting soft light onto two old, weathered books beside it. The background is dim, creating a cozy, intimate atmosphere with shadows and a quiet, vintage feel. The scene suggests solitude or quiet evening reading.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:48-07:00",
+    "hallucination_raw": 1.0,
+    "hallucination_score": 0.0,
+    "semantic_similarity": 0.1426,
+    "composite_score": 0.1256
+  },
+  {
+    "id": "scientist_in_a_lab.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/hallucination/scientist_in_a_lab.jpg",
+    "caption": "A person with curly dark hair, wearing a blue disposable lab gown and blue nitrile gloves, examines a specimen through a white Zeiss stereo microscope at a window-side lab bench. The bench holds a notebook with a turquoise pen, clear tubes and slides, reagent bottles and boxes, and small tools, suggesting sample preparation or inspection work.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:48-07:00",
+    "hallucination_raw": 1.0,
+    "hallucination_score": 0.0,
+    "semantic_similarity": 0.0749,
+    "composite_score": 0.0849
+  },
+  {
+    "id": "spider_web.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/hallucination/spider_web.jpg",
+    "caption": "A delicate spider web stretches between wildflowers, glistening in soft natural light. Its intricate structure is clearly visible against a blurred green-blue background. The web appears slightly damaged, suggesting time or past activity. The image captures quiet beauty and natural complexity.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:48-07:00",
+    "hallucination_raw": 1.0,
+    "hallucination_score": 0.0,
+    "semantic_similarity": -0.0225,
+    "composite_score": 0.0265
+  },
+  {
+    "id": "tilted_photo.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/hallucination/tilted_photo.jpg",
+    "caption": "A wooden table corner is captured from an unusual upward angle, emphasizing clean edges and grain texture. The perspective distorts the shape slightly, making the table appear geometric and abstract. Light from the right side highlights the warm wood tones against a plain white wall.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:48-07:00",
+    "hallucination_raw": 1.0,
+    "hallucination_score": 0.0,
+    "semantic_similarity": -0.087,
+    "composite_score": -0.0122
+  },
+  {
+    "id": "truck.jpg",
+    "image": "https://huggingface.co/datasets/rybalena/aiqa_images/resolve/main/hallucination/truck.jpg",
+    "caption": "A yellow Scania truck drives along a rural highway bordered by green grass and dense trees. A white car follows behind on the same lane. The road stretches into the distance, with mild traffic visible. The scene suggests typical highway travel through a quiet, forested area.",
+    "model_output": "[ERROR] OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "model_name": "gpt-4o",
+    "run_timestamp": "2025-08-27T03:08:48-07:00",
+    "hallucination_raw": 1.0,
+    "hallucination_score": 0.0,
+    "semantic_similarity": 0.139,
+    "composite_score": 0.1234
+  }
+]

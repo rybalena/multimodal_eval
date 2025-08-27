@@ -1,0 +1,2 @@
+task,dataset_type,model_name,run_timestamp,num_samples,mean_clip_score,mean_semantic_similarity,mean_contextual_relevance,mean_composite_score
+vqa,labeled_data,gpt-4o,2025-08-27T03:09:03-07:00,7,0.5819,0.5142,0.5077,0.5177
