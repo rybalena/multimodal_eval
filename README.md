@@ -5,7 +5,7 @@
 
 ## 🔍 What is MultimodalEval?
 
-**MultimodalEvalCore** is an open-source framework for **evaluating multimodal AI models** (image → text).  
+**MultimodalEval** is an open-source framework for **evaluating multimodal AI models** (image → text).  
 It is designed for **AI QA engineers, ML researchers, and practitioners** who need **reliable, reproducible, and extensible** benchmarks.  
 
 Supports **Captioning, VQA, Hallucination Detection, and Contextual Relevance**, combining **classic metrics** (CIDEr, CLIPScore, SBERT) with **LLM-as-a-Judge** scoring.  
