@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kitten_box",
+    "image": "kitten_in_a_box.jpg",
+    "caption": "A small white kitten with bright eyes is sitting inside an open cardboard box, looking up curiously. The dark carpeted floor around the box contrasts with the kitten’s clean, light fur, making it the center of attention."
+  },
+  {
+    "id": "man_laptop",
+    "image": "man_with_laptop.jpg",
+    "caption": "A man wearing a loose red t-shirt is sitting indoors with a laptop on his lap, seen through a reflective glass window with tall city buildings in the background. His focused expression suggests he is working or browsing intently."
+  },
+  {
+    "id": "meme_fry",
+    "image": "meme.jpg",
+    "caption": "A meme featuring the character Fry from Futurama shows him squinting suspiciously, with the caption: “Not sure if I am a photographer or just a guy with a camera.” The joke humorously highlights the difference between owning a camera and having real photography skills."
+  },
+  {
+    "id": "mirror_selfie",
+    "image": "mirror_selfie.jpg",
+    "caption": "A black-and-white photo shows a person taking a mirror selfie with a camera, sitting casually with one leg crossed. Their face is partly obscured by the camera, while messy hair and ripped jeans add a relaxed, artistic feel."
+  },
+  {
+    "id": "mountains_lake",
+    "image": "mountains_and_lake.jpg",
+    "caption": " A mountain covered with patches of forest rises above a calm lake, with the peak lit by soft evening sunlight. The reflection of the slopes stretches across the rippling water."
+  },
+  {
+    "id": "museum_painting",
+    "image": "painting_in_museum.jpg",
+    "caption": "The famous painting Mona Lisa is displayed behind protective glass in a museum, with visitors capturing it on their phones from a distance. Its small size contrasts with the large display wall around it."
+  },
+  {
+    "id": "reflection_water",
+    "image": "reflection_in_water.jpg",
+    "caption": "A cluster of tall pine trees is reflected in the still water of a lake, as golden sunlight filters through the morning mist. The warm light creates a serene and dreamy atmosphere."
+  },
+  {
+    "id": "street_night",
+    "image": "street_at_night.jpg",
+    "caption": "A dimly lit street at night is illuminated by street lamps and car headlights, with vehicles parked on both sides and power lines crisscrossing above. The bright glow of a car approaching adds contrast to the dark alley."
+  },
+  {
+    "id": "woman_bicycle",
+    "image": "woman_on_bicycle.jpg",
+    "caption": "A woman wearing a green polka-dot jumpsuit, white sneakers, and a helmet is riding a bicycle with a wicker basket on the front along a city street. A white van and storefronts can be seen in the background."
+  }
+]

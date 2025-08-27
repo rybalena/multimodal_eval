@@ -1,0 +1,22 @@
+[
+  {
+    "id": "airplane_window",
+    "image": "airplane.jpg"
+  },
+  {
+    "id": "beach_children",
+    "image": "beach_with_children.jpg"
+  },
+  {
+    "id": "book_cafe",
+    "image": "book_cafe.jpg"
+  },
+  {
+    "id": "bridge_night",
+    "image": "bridge_at_night.jpg"
+  },
+  {
+    "id": "outdoor_cafe",
+    "image": "cafe.jpg"
+  }
+]

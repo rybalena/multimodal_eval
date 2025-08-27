@@ -1,0 +1,33 @@
+[
+  {
+    "id": "car_field",
+    "image": "car_in_a_field.jpg",
+    "caption": "A vintage blue car drives across a wide green field under a clear blue sky, kicking up a trail of dust behind it. The contrast between the vibrant grass and the open sky emphasizes the sense of freedom and motion.",
+    "relevant": true
+  },
+  {
+    "id": "garden_flowers",
+    "image": "garden_with_flowers.jpg",
+    "caption": "A lush garden is filled with colorful flowers, including bright pink blooms cascading from bushes and orange blossoms scattered across the scene. Greenery and trees surround the fenced area, giving it a lively and natural charm.",
+    "relevant": true
+  },
+  {
+    "id": "library",
+    "image": "library.jpg",
+    "caption": "A spacious library aisle stretches forward, lined with tall shelves filled with books, and a few people are seen studying at tables in the distance. The fluorescent lighting and neatly arranged rows create a calm, organized atmosphere.",
+    "relevant": true
+  },
+  {
+    "id": "school_classroom",
+    "image": "school.jpg",
+    "caption": "A classroom filled with children shows students sitting at desks, working on assignments, while a teacher stands at the front holding a book. Colorful posters, maps, and decorations cover the walls, creating a lively learning environment.",
+    "relevant": true
+  },
+  {
+    "id": "theater",
+    "image": "theater.jpg",
+    "caption": "A grand theater interior is shown with an ornate stage framed by detailed artwork and golden decorations. The large curtain is drawn shut, waiting for a performance to begin.",
+    "relevant": true
+  }
+
+]

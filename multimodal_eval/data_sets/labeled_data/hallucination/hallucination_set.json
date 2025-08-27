@@ -1,0 +1,37 @@
+[
+  {
+    "id": "guy_dancing",
+    "image": "guy_dancing.jpg",
+    "ground_truth": "A young man stands near a metal fence, seemingly dancing and caught mid-air as if floating. He wears a black shirt with a colorful dragon print, light blue ripped jeans, and black sneakers or boots. His arms are spread out, balancing on his toes."
+  },
+  {
+    "id": "guy_long_hair",
+    "image": "guy_with_long_hair.jpg",
+    "ground_truth": "A young man with long, light brown hair is captured in profile against a dark background. He wears a beige knitted sweater and appears calm and introspective, looking downward with a peaceful expression. The lighting is soft, creating a warm, moody atmosphere."
+  },
+  {
+    "id": "room_lamp",
+    "image": "room_with_a_lamp.jpg",
+    "ground_truth": "A warm yellow lamp glows on a small corner table, casting soft light onto two old, weathered books beside it. The background is dim, creating a cozy, intimate atmosphere with shadows and a quiet, vintage feel. The scene suggests solitude or quiet evening reading."
+  },
+  {
+    "id": "scientist_lab",
+    "image": "scientist_in_a_lab.jpg",
+    "ground_truth": "A person with curly dark hair, wearing a blue disposable lab gown and blue nitrile gloves, examines a specimen through a white Zeiss stereo microscope at a window-side lab bench. The bench holds a notebook with a turquoise pen, clear tubes and slides, reagent bottles and boxes, and small tools, suggesting sample preparation or inspection work."
+  },
+  {
+    "id": "spider_web_fake",
+    "image": "spider_web.jpg",
+    "ground_truth": "A delicate spider web stretches between wildflowers, glistening in soft natural light. Its intricate structure is clearly visible against a blurred green-blue background. The web appears slightly damaged, suggesting time or past activity. The image captures quiet beauty and natural complexity."
+  },
+  {
+    "id": "tilted_photo",
+    "image": "tilted_photo.jpg",
+    "ground_truth": "A wooden table corner is captured from an unusual upward angle, emphasizing clean edges and grain texture. The perspective distorts the shape slightly, making the table appear geometric and abstract. Light from the right side highlights the warm wood tones against a plain white wall."
+  },
+  {
+     "id": "truck",
+    "image": "truck.jpg",
+    "ground_truth": "A yellow Scania truck drives along a rural highway bordered by green grass and dense trees. A white car follows behind on the same lane. The road stretches into the distance, with mild traffic visible. The scene suggests typical highway travel through a quiet, forested area."
+  }
+]

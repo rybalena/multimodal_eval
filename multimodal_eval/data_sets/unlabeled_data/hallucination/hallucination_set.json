@@ -1,0 +1,30 @@
+[
+  {
+    "id": "blur_image",
+    "image": "blur_image.jpg"
+  },
+  {
+    "id": "book_cover",
+    "image": "book_cover.jpg"
+  },
+  {
+    "id": "cat_alone",
+    "image": "cat_alone.jpg"
+  },
+  {
+    "id": "dog_forest_fake_object",
+    "image": "dog_in_the_forest.jpg"
+  },
+  {
+    "id": "empty_beach",
+    "image": "empty_beach.jpg"
+  },
+  {
+    "id": "flag",
+    "image": "flag.jpg"
+  },
+  {
+     "id": "girl_with_cup_fake_action",
+     "image": "girl_with_a_cup.jpg"
+  }
+]

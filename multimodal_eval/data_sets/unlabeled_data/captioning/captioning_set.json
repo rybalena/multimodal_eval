@@ -1,0 +1,26 @@
+[
+  {
+    "id": "boy_soccer",
+    "image": "boy_playing_football.jpg"
+  },
+  {
+    "id": "cafe_customers",
+    "image": "cafe_with_customers.jpg"
+  },
+  {
+    "id": "dog_beach",
+    "image": "dog_on_the_beach.jpg"
+  },
+  {
+    "id": "elderly_park",
+    "image": "elderly_couple_in_park.jpg"
+  },
+  {
+    "id": "girl_ice_cream",
+    "image": "girl_with_ice_cream.jpg"
+  },
+  {
+    "id": "heart_shape",
+    "image": "heart.jpg"
+  }
+]

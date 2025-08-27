@@ -1,7 +1,67 @@
 [project]
-name = 'multimodal-eval-core'
-version = '0.1.0'
-description = 'Framework for evaluating multimodal AI models'
-requires-python = '>=3.8'
-dependencies = ['pydantic', 'evaluate', 'pillow']
+name = "multimodal_eval"
+version = "0.1.0"
+description = "Framework for evaluating multimodal AI models"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+  { name = "Elena Rybina", email = "elenarybina77@yahoo.com" }
+]
+keywords = ["multimodal", "evaluation", "AI", "ML", "computer-vision", "NLP"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
 
+dependencies = [
+  "pydantic>=2",
+  "evaluate>=0.4",
+  "pillow>=10"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8",
+  "pytest-cov>=5",
+  "ruff>=0.5",
+  "black>=24",
+  "mypy>=1.10",
+  "build>=1.2",
+  "twine>=5"
+]
+ui = [
+  "streamlit>=1.36",
+  "pandas>=2.2"
+]
+models = [
+  "transformers>=4.43",
+  "sentence-transformers>=3.0"
+
+]
+docs = [
+  "mkdocs-material>=9.5",
+  "mkdocstrings[python]>=0.25"
+]
+
+[project.urls]
+Homepage = "https://github.com/rybalena/multimodal_eval"
+Repository = "https://github.com/rybalena/multimodal_eval"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["multimodal_eval*"]
+exclude = ["tests*", "examples*", "notebooks*"]
+
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"

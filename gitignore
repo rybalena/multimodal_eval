@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+.venv1/
+
+# Python artifacts
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Project-specific
+.env
+results/
+*.log
+
+# Editors
+.vscode/
+.streamlit/

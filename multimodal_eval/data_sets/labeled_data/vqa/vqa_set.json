@@ -1,0 +1,44 @@
+[
+  {
+    "id": "gym",
+    "image": "gym.jpg",
+    "question": "What type of room is this?",
+    "expected_answer": "Gym"
+  },
+  {
+    "id": "man_helmet",
+    "image": "man_wearing_a_helmet.jpg",
+    "question": "What safety equipment is the man wearing?",
+    "expected_answer": "A helmet"
+  },
+  {
+    "id": "mannequin",
+    "image": "mannequin.jpg",
+    "question": "What is the mannequin wearing?",
+    "expected_answer": "A wedding dress"
+  },
+  {
+    "id": "night_shot",
+    "image": "night_shot.jpg",
+    "question": "Is this photo taken during the day or night?",
+    "expected_answer": "Night"
+  },
+  {
+    "id": "people_crosswalk",
+    "image": "people_at_a_crosswalk.jpg",
+    "question": "Where are the people standing?",
+    "expected_answer": "At a crosswalk"
+  },
+  {
+    "id": "person_board",
+    "image": "person_at_the_board.jpg",
+    "question": "What is the woman doing in front of the board?",
+    "expected_answer": "Presenting or explaining something"
+  },
+  {
+    "id": "plate_of_food",
+    "image": "plate_of_food.jpg",
+    "question": "What type of food is on the plate?",
+    "expected_answer": "Meat, fries, and vegetables"
+  }
+]
