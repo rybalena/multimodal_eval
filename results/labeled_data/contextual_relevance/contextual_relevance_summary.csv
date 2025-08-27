@@ -1,2 +1,0 @@
-task,dataset_type,model_name,run_timestamp,num_samples,mean_clip_score,mean_semantic_similarity,mean_cider,mean_composite_score
-contextual_relevance,labeled_data,gpt-4o,2025-08-27T03:09:24-07:00,5,0.5675,0.4621,0.1989,0.4253

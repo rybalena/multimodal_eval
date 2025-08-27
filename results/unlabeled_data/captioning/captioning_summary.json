@@ -1,7 +1,0 @@
-{
-  "task": "captioning",
-  "dataset_type": "unlabeled_data",
-  "model_name": "gpt-4o",
-  "run_timestamp": "2025-08-27T03:09:40-07:00",
-  "num_samples": 6
-}

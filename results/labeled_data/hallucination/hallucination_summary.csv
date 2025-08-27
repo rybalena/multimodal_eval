@@ -1,2 +1,0 @@
-task,dataset_type,model_name,run_timestamp,num_samples,mean_semantic_similarity,mean_hallucination_score,mean_composite_score
-hallucination,labeled_data,gpt-4o,2025-08-27T03:08:48-07:00,7,0.0176,0.0,0.0506

@@ -1,8 +1,0 @@
-run_timestamp,dataset_type,task,model_name,num_samples,mean_score,mean_cider,mean_clip_score,mean_composite_score,mean_contextual_relevance,mean_hallucination_score,mean_semantic_similarity
-2025-08-27T03:08:18-07:00,labeled_data,captioning,gpt-4o,9,0.4421,0.1734,0.5748,0.4421,,,0.5101
-2025-08-27T03:08:48-07:00,labeled_data,hallucination,gpt-4o,7,0.0506,,,0.0506,,0.0,0.0176
-2025-08-27T03:09:03-07:00,labeled_data,vqa,gpt-4o,7,0.5177,,0.5819,0.5177,0.5077,,0.5142
-2025-08-27T03:09:24-07:00,labeled_data,contextual_relevance,gpt-4o,5,0.4253,0.1989,0.5675,0.4253,,,0.4621
-2025-08-27T03:09:40-07:00,unlabeled_data,captioning,gpt-4o,6,,,,,,,
-2025-08-27T03:10:01-07:00,unlabeled_data,hallucination,gpt-4o,7,,,,,,,
-2025-08-27T03:10:09-07:00,unlabeled_data,contextual_relevance,gpt-4o,5,,,,,,,

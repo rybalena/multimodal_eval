@@ -1,7 +1,0 @@
-{
-  "task": "contextual_relevance",
-  "dataset_type": "unlabeled_data",
-  "model_name": "gpt-4o",
-  "run_timestamp": "2025-08-27T03:10:09-07:00",
-  "num_samples": 5
-}
